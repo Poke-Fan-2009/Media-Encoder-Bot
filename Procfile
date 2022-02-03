@@ -1,1 +1,1 @@
-Tellybots: python -m plugins
+Worker: python -m plugins
