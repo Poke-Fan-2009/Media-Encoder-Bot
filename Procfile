@@ -1,1 +1,1 @@
-Worker: python -m plugins
+Drone: python -m plugins
